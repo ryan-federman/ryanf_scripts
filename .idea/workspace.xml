@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a35f8f0a-b2b9-42bc-b207-91f7868ff197" name="Default" comment="" />
+    <ignored path="scripts.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="scripts" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ribbon_tools.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/ribbon_tools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="34" column="31" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testbed.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testbed.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="519" column="0" lean-forward="false" selection-start-line="519" selection-start-column="0" selection-end-line="519" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="foot_roll.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fedrig/modules/submodules/foot_roll.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-268">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArmModuleBuilder.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/GLOBAL/biped/ArmModuleBuilder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nurbs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/create/nurbs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenericArmModuleBuilder.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/GLOBAL/generic/GenericArmModuleBuilder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="91" column="35" lean-forward="false" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layoutObjects.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fedrig/layout/layoutObjects.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="control_shapes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/control_shapes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="millRigUtils.py" pinned="false" current-in-tab="false">
+        <entry file="file:///mill3d/server/apps/MAYA/plugins/2016/mill/millRig/autogen/scripts/millRig/core/millRigUtils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-123">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>average</find>
+      <find>CNST</find>
+      <find>pivot</find>
+      <find>lock</find>
+      <find>rotate</find>
+      <find>aim</find>
+      <find>create</find>
+      <find>sideRotation</find>
+      <find>enum</find>
+      <find>init</find>
+      <find>90</find>
+      <find>add_generic_blend</find>
+      <find>self.lock_attributes</find>
+      <find>print</find>
+      <find>add_missing_layout</find>
+      <find>add_missing_layoutobjects</find>
+      <find>vectors_to</find>
+      <find>birail</find>
+      <find>condition</find>
+      <find>maths.linspace</find>
+      <find>om.</find>
+      <find>om.MFnNurbsSurface</find>
+      <find>integer</find>
+      <find>keyable=False</find>
+      <find>attach_to_rig</find>
+      <find>deleteLater</find>
+      <find>linspace</find>
+      <find>add_enum</find>
+      <find>listEnum</find>
+      <find>xform</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/dev/td/rigging_utils</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/create/nurbs.py" />
+        <option value="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/create.py" />
+        <option value="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/util/math.py" />
+        <option value="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/create/dag.py" />
+        <option value="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/util/constraint.py" />
+        <option value="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/create/deform.py" />
+        <option value="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/ryanf_scripts/modules/submodules/foot_roll.py" />
+        <option value="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/ryanf_scripts/util/maths.py" />
+        <option value="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/ryanf_scripts/util/component.py" />
+        <option value="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/ryanf_scripts/util/constraint.py" />
+        <option value="$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/_placement/bird.py" />
+        <option value="$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/utils/object/bend_control.py" />
+        <option value="$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/GLOBAL/generic/GenericWingModuleBuilder.py" />
+        <option value="$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/submodules/fk_chain.py" />
+        <option value="$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/submodules/feathers/nurbs_feather_mapping.py" />
+        <option value="$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/GLOBAL/basics/FkChainModuleBuilder.py" />
+        <option value="$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/GLOBAL/misc/LaptopModuleBuilder.py" />
+        <option value="$PROJECT_DIR$/tools/PointsToGeo.py" />
+        <option value="$PROJECT_DIR$/util/control_shapes.py" />
+        <option value="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/ryanf_scripts/util/attribute.py" />
+        <option value="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/ryanf_scripts/util/control_shapes.py" />
+        <option value="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/test.py" />
+        <option value="$USER_HOME$/dev/td/rigging_utils/source/rigging_utils/maths.py" />
+        <option value="$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/GLOBAL/misc/fern_preset.rig" />
+        <option value="$USER_HOME$/dev/td/rigging_utils/source/rigging_utils/attribute.py" />
+        <option value="$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/GLOBAL/misc/RibbonModuleBuilder.py" />
+        <option value="$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/GLOBAL/misc/CoasterModuleBuilder.py" />
+        <option value="$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/GLOBAL/misc/Coaster2ModuleBuilder.py" />
+        <option value="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/ryanf_scripts/create/deform.py" />
+        <option value="$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/GLOBAL/misc/SpiralModuleBuilder.py" />
+        <option value="$PROJECT_DIR$/util/constraint.py" />
+        <option value="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/ryanf_scripts/create/dag.py" />
+        <option value="$PROJECT_DIR$/create/deform.py" />
+        <option value="$PROJECT_DIR$/tools/dot_to_curve.py" />
+        <option value="$PROJECT_DIR$/create/dag.py" />
+        <option value="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/ryanf_scripts/create/nurbs.py" />
+        <option value="$PROJECT_DIR$/util/attribute.py" />
+        <option value="$PROJECT_DIR$/tools/ribbonToCurve.py" />
+        <option value="$PROJECT_DIR$/tools/qt_demo.py" />
+        <option value="$PROJECT_DIR$/tools/ui_test.py" />
+        <option value="$PROJECT_DIR$/tools/ribbon_tools.py" />
+        <option value="$PROJECT_DIR$/tools/points_to_geo_tool.py" />
+        <option value="$PROJECT_DIR$/util/component.py" />
+        <option value="$PROJECT_DIR$/populate_script.py" />
+        <option value="$USER_HOME$/dev/td/rigging_utils/source/rigging_utils/create/curves.py" />
+        <option value="$PROJECT_DIR$/tools/pts2geo_toolv1.py" />
+        <option value="$PROJECT_DIR$/tools/pts2geo_tool.py" />
+        <option value="$PROJECT_DIR$/util/maths.py" />
+        <option value="$PROJECT_DIR$/testbed.py" />
+        <option value="$PROJECT_DIR$/create/nurbs.py" />
+        <option value="$PROJECT_DIR$/fedrig/layout/layoutObjects.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="271" />
+    <option name="y" value="130" />
+    <option name="width" value="1339" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8Inspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scripts" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scripts" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="ryanf_scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scripts" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="ryanf_scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="fedrig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scripts" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="ryanf_scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="fedrig" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scripts" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="ryanf_scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scripts" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="td" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scripts" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="td" type="462c0819:PsiDirectoryNode" />
+              <item name="millrig_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scripts" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="td" type="462c0819:PsiDirectoryNode" />
+              <item name="millrig_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 2.6.6 (/usr/bin/python) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 2.6.6 (/usr/bin/python) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="348993582" type="70582d5e:PySkeletonsNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.22091062" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fedrig" />
+      <recent name="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tools" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/ryanf_scripts" />
+      <recent name="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/create" />
+      <recent name="$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ribbonToCurve">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scripts" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scripts" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scripts" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scripts" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scripts" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scripts" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration name="attributeTool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scripts" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/attributeTool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="ribbonToCurve" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scripts" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/ribbonToCurve.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scripts" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.attributeTool" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ribbonToCurve" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.ribbonToCurve" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.attributeTool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a35f8f0a-b2b9-42bc-b207-91f7868ff197" name="Default" comment="" />
+      <created>1519158560248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519158560248</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="271" y="130" width="1339" height="992" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37276265" sideWeight="0.4950495" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="555" y="613" width="986" height="515" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32756758" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29515418" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33553356" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31677467" sideWeight="0.5049505" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991276" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885304" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/test.py</url>
+          <line>936</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="20" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///mill3d/server/apps/MAYA/plugins/2016/mill/millRig/autogen/scripts/millRig/core/parameters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8704">
+          <caret line="512" column="8" lean-forward="false" selection-start-line="512" selection-start-column="8" selection-end-line="512" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/GLOBAL/misc/CoasterModuleBuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/GLOBAL/misc/Coaster2ModuleBuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7820">
+          <caret line="460" column="56" lean-forward="false" selection-start-line="460" selection-start-column="56" selection-end-line="460" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/ryanf_scripts/create/deform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="743">
+          <caret line="115" column="74" lean-forward="false" selection-start-line="115" selection-start-column="74" selection-end-line="115" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/td/rigging_utils/source/rigging_utils/skin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4097">
+          <caret line="241" column="24" lean-forward="false" selection-start-line="241" selection-start-column="24" selection-end-line="241" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/GLOBAL/misc/RibbonModuleBuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8041">
+          <caret line="473" column="22" lean-forward="false" selection-start-line="376" selection-start-column="0" selection-end-line="473" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/constraint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2601">
+          <caret line="153" column="34" lean-forward="false" selection-start-line="153" selection-start-column="34" selection-end-line="153" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/GLOBAL/misc/SpiralModuleBuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4675">
+          <caret line="275" column="83" lean-forward="false" selection-start-line="245" selection-start-column="0" selection-end-line="275" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/ribbon_rig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4420">
+          <caret line="260" column="26" lean-forward="false" selection-start-line="260" selection-start-column="26" selection-end-line="260" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/td/rigging_utils/source/rigging_utils/create/matrixblend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/td/rigging_utils/source/rigging_utils/create/matrixramp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/td/rigging_utils/source/rigging_utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/ryanf_scripts/create/dag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/td/rigging_utils/source/rigging_utils/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="434" column="4" lean-forward="false" selection-start-line="434" selection-start-column="4" selection-end-line="434" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/dot_to_curve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="172" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/td/rigging_utils/source/rigging_utils/attribute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create/dag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5015">
+          <caret line="295" column="20" lean-forward="false" selection-start-line="295" selection-start-column="20" selection-end-line="295" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create/deform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/attribute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="15" lean-forward="false" selection-start-line="78" selection-start-column="15" selection-end-line="78" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/tdsvn/maya/modules/layout/scripts/layoutToolBarConfig/toolbar_create.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1887">
+          <caret line="111" column="26" lean-forward="false" selection-start-line="111" selection-start-column="26" selection-end-line="111" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/tdsvn/maya/modules/camera/scripts/createCam/main_window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/ui_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="56" lean-forward="false" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/tdsvn/maya/modules/mayamilltoolbar.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/tdsvn/library/python/milltoolbar2/core/tabData/maya/rigging_Tab.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/ribbonToCurve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/PointsToGeo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="40" lean-forward="false" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rigging_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/tdsvn/maya/modules/mayamilltoolbar/scripts/mayamilltoolbar/mayaCommanderbox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="8" lean-forward="false" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/tdsvn/library/python/milltoolbar2/core/customTabs/maya/rigging_Tab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/tdsvn/maya/modules/mayamilltoolbar/scripts/mayamilltoolbar/mayaToolbar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="30" lean-forward="false" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/tdsvn/maya/modules/mayamilltoolbar/scripts/mayamilltoolbar/mayatoolbar_launcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/ryanf_scripts/create/nurbs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4233">
+          <caret line="249" column="15" lean-forward="false" selection-start-line="187" selection-start-column="0" selection-end-line="249" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/populate_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/component.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/td/rigging_utils/source/rigging_utils/maths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2176">
+          <caret line="128" column="21" lean-forward="false" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="21" />
+          <folding>
+            <marker date="1571158071337" expanded="true" signature="10095:10195" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="10236:10525" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="10241:10443" ph="&quot;&quot;&quot;Get distance between two transformation matrices...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="10734:12736" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="10739:11352" ph="&quot;&quot;&quot;Create list of matrices on a curve using upvector for orientation...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="11801:11885" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="12045:12138" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="12313:12715" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="12868:14902" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="12873:13452" ph="&quot;&quot;&quot;Create list of matrices on a curve...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="14096:14159" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="14242:14351" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="14265:14350" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="14420:14510" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="14792:14880" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="14990:15936" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="14995:15383" ph="&quot;&quot;&quot;Get matrix for a given UV value on nurbs surface...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="15560:15735" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="15745:15920" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="15962:16625" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="15967:16226" ph="&quot;&quot;&quot;Convert matrix value to MTransformationMatrix type...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="16517:16625" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="16651:17232" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="16656:16874" ph="&quot;&quot;&quot;Converts matrix value to MMatrix type...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="17124:17232" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="17273:17542" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="17278:17505" ph="&quot;&quot;&quot;Get matrix that defines the offset between from source to target...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="17573:18030" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="17578:17738" ph="&quot;&quot;&quot;Get matrix rows as list of vectors...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="18081:19213" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="18086:18350" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="18793:19015" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="19025:19128" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="19340:20030" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="19345:19725" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="20080:21250" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="20085:20482" ph="&quot;&quot;&quot;Get matrix orientation that is closest to another matrix...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="21285:21549" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="21290:21475" ph="&quot;&quot;&quot;Get matrix orientation that is closest to the world matrix...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="21591:22131" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="21596:21878" ph="&quot;&quot;&quot;Match matrix position to another matrix while preserving orientation...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="22205:23673" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="22210:22647" ph="&quot;&quot;&quot;Reorder rows of a matrix to fit the aim_axis and up_axis criteria...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="22683:23632" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="22891:23116" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="23151:23374" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="23409:23632" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="23755:25385" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="23760:24146" ph="&quot;&quot;&quot;Reorient matrix by aligning basis vectors in specified directions...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="24454:24568" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="24644:24758" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="24834:24948" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="25137:25274" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="25161:25274" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="25429:25792" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="25434:25673" ph="&quot;&quot;&quot;Add offset to matrix, in local space...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="25883:26522" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="25888:26205" ph="&quot;&quot;&quot;Get the offset rotation...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="26591:27894" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="26596:26979" ph="&quot;&quot;&quot;Blend between 2 transformation matrices...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="27119:27352" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="27379:27618" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="27645:27860" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="28014:28803" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="28019:28573" ph="&quot;&quot;&quot;Create a list of matrices based on the blend between matrix1 and matrix1...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="28848:29227" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="28853:29081" ph="&quot;&quot;&quot;Multiply a vector by a matrix...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="29254:29555" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="29259:29440" ph="&quot;&quot;&quot;Remove any non-default scale from matrix...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="29589:29817" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="29594:29784" ph="&quot;&quot;&quot;Get matrix axes scale as integers...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="29845:30231" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="29850:30046" ph="&quot;&quot;&quot;Get joint orientation value as matrix...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="30280:30612" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="30285:30491" ph="&quot;&quot;&quot;Get object position...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="30642:31319" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="30647:30862" ph="&quot;&quot;&quot;Return vector value as an MVector type...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="31366:31720" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="31371:31629" ph="&quot;&quot;&quot;Multiply each component of one vector with another (not dot-product)...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="31751:32240" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="31756:31994" ph="&quot;&quot;&quot;Get angle between vectors in degrees...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="32075:32199" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="32302:32646" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="32307:32600" ph="&quot;&quot;&quot;Checks if to vectors are similarly oriented within a given threshold...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="32676:33301" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="32681:32947" ph="&quot;&quot;&quot;Get a normalized up-vector from a list of vectors...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="33091:33218" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="33335:33971" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="33340:33550" ph="&quot;&quot;&quot;Get a normal vector for a point on a line...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="33790:33902" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="34009:34721" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="34014:34533" ph="&quot;&quot;&quot;&quot;Get pole vector position...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="34745:35032" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="34750:34905" ph="&quot;&quot;&quot;Get average of vectors...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="35097:35803" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="35102:35406" ph="&quot;&quot;&quot;Get an orthogonal axis to the given axis...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="35869:37437" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="35874:36264" ph="&quot;&quot;&quot;Get a vector which represents a mirrored position of the given node...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="36537:36974" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="37047:37374" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="37494:38092" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="37499:37694" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="37854:38020" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="37917:38020" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="38159:39167" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="38164:38528" ph="&quot;&quot;&quot;Reorder euler rotation values...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="38988:39166" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="39227:39836" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="39232:39536" ph="&quot;&quot;&quot;Get euler rotation values as MEulerRotation...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="39873:40190" ph="..." />
+            <marker date="1571158071337" expanded="true" signature="39878:40087" ph="&quot;&quot;&quot;Converts the result of a xform command to a list of MVectors...&quot;&quot;&quot;" />
+            <marker date="1571158071337" expanded="true" signature="40332:40517" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/qt_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3264">
+          <caret line="192" column="0" lean-forward="false" selection-start-line="192" selection-start-column="0" selection-end-line="203" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/ribbon_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="34" column="31" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/pts2geo_toolv1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10744">
+          <caret line="632" column="22" lean-forward="false" selection-start-line="632" selection-start-column="22" selection-end-line="632" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/pts2geo_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6851">
+          <caret line="403" column="0" lean-forward="false" selection-start-line="403" selection-start-column="0" selection-end-line="403" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/maths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1101">
+          <caret line="106" column="16" lean-forward="false" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testbed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="519" column="0" lean-forward="false" selection-start-line="519" selection-start-column="0" selection-end-line="519" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fedrig/modules/submodules/foot_roll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-268">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/tdsvn/maya/modules/millrigger/scripts/millrigger/modules/NY/misc/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="837" column="26" lean-forward="true" selection-start-line="837" selection-start-column="26" selection-end-line="837" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/td/rigging_utils/source/rigging_utils/create/curves.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/GLOBAL/biped/ArmModuleBuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///mill3d/server/apps/MAYA/plugins/2016/mill/millRig/autogen/scripts/millRig/core/millRigUtils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///mill3d/server/apps/MAYA/plugins/2016/mill/millRig/autogen/scripts/millRig/core/rigParameters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dev/td/millrig_modules/source/millrig_modules/modules/GLOBAL/generic/GenericArmModuleBuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="91" column="35" lean-forward="false" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create/nurbs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/control_shapes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fedrig/layout/layoutObjects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

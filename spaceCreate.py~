@@ -1,0 +1,128 @@
+import maya.cmds as cmds
+import pymel.core as pm
+
+spaceDict = {}
+spaceDict['spaceObj'] = 'none'
+
+winID = 'spaceCreate'
+
+if pm.window(winID, exists = True):
+    pm.deleteUI(winID)
+
+winID = pm.window('spaceCreate', width = 200)
+
+pm.frameLayout(label = 'Create Spaces')
+topColumn = pm.columnLayout(adj = True)
+
+#Create textbox in which the space that is about to be created is shown
+firstTextRow = pm.rowLayout( nc = 2)
+
+spaceText = pm.textFieldGrp( 'spaceText', label = 'Space', width = 300, editable = False  )
+
+spaceTextButton = pm.button( label = 'GET OBJ', w = 70, c = 'spaceTextbox()' )
+
+cmds.setParent( topColumn )
+
+#Create button to create the space
+topColumn2 = pm.columnLayout( rs = 20 )
+spaceButton = pm.button( label = 'Create Space', width = 400, c = 'spaceCreate()')
+
+pm.setParent( topColumn )
+
+#Create textbox in which the object in which the spaces are being applied to are shown
+secondTextRow = pm.rowLayout( nc = 2 )
+
+applySpaceText = pm.textFieldGrp( 'applySpaceText', label = 'Object', width = 300, editable = False)
+
+applySpaceTextButton = pm.button( label = 'GET OBJ', w = 70, c = 'objTextbox()' )
+
+cmds.setParent( topColumn )
+
+#Create checkboxes in order to know exactly what kind of space you are creating
+transCheck = pm.checkBox('Translation')
+rotCheck = pm.checkBox('Rotation')
+
+#Create button to apply space
+topColumn3 = pm.columnLayout( rs = 20 )
+applySpaceButton = pm.button( label = 'Apply Space', width = 400, c = 'applySpace()')
+
+
+pm.showWindow()
+
+
+#Fill in the text box for the space object and fill the variable in your dictionary with that object
+def spaceTextbox():
+    space = pm.ls(sl = True)
+    
+    if len(space) == 0:
+        cmds.error("Select an object")
+    if len(space) > 1:
+        cmds.error("More than one object selected")
+    else:
+        space = space[0]
+        pm.textFieldGrp( spaceText, e = True, tx = space )
+        spaceDict['spaceObj'] = space
+    
+
+def spaceCreate():
+    #query the control and create what the name of it's space will be
+    if spaceDict['spaceObj'] == 'none':
+        cmds.error('No space is loaded')
+    else:        
+        spaceName = spaceDict['spaceObj'] + '_SPACE' 
+    
+    #check to see if your main spaces group is created
+    cmds.select(clear = True)
+    try:
+        cmds.select('SPACES_GRP')
+        cmds.select(clear = True)
+        print 'exists'
+    except:
+        spaceGRP = pm.group(em = True, name = 'SPACES_GRP')
+        print 'doesntexist'
+    
+    #check to see if the space for your object already exists
+    try:
+        cmds.select(spaceName)
+    except:
+        pm.select(clear = True)
+    selection = pm.ls(sl = True)
+    if len(selection) == 1:
+        cmds.error('This space already exists')
+    
+    #create space for the object
+    space = pm.group(em = True, name = spaceName)
+    pm.parent(space, 'SPACES_GRP')
+    spaceConstraint = pm.parentConstraint(spaceDict['spaceObj'], space, mo = False)
+    
+
+#Fill in the text box for the object where the space is being applied and fill the variable in your dictionary with that object
+def objTextbox():
+    obj = pm.ls(sl = True)
+    spaceDict['applyObj'] = obj[0]   
+    applySpaceText = pm.textFieldGrp( 'applySpaceText', e = True, tx = obj[0])
+    
+
+
+def applySpace():
+if pm.attributeQuery('SPACE', node = spaceDict['spaceObj'], exists = True ) == True:
+    #return all the enum names in the attribute and then add the new attr at the end
+	attrList = pm.attributeQuery('SPACE', node = spaceDict['applyObj'], listEnum = True)
+	
+	attrListName = (attrList[0] + ':' + spaceDict['spaceObj'])
+	print attrList
+	print attrListName
+	#delete the attribute and then reAdd it with the new enum list
+	cmds.deleteAttr( smDict['asObject'], at = 'follow')
+	cmds.select(smDict['asObject'])
+	cmds.addAttr( ln = 'follow', at = 'enum', en = attrListName, keyable = True )
+else:
+    pm.select(clear = True)
+    pm.select(spaceDict['applyObj'])
+    pm.addAttr( sn = 'SPACE', at = 'enum', enumName = (spaceDict['spaceObj'] + ':'), keyable = True)
+        
+    
+    
+    
+    
+    attrList = pm.attributeQuery('SPACE', node = spaceDict['applyObj'], listEnum = True)
