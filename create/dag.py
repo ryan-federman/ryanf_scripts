@@ -5,9 +5,9 @@ from rigging_utils import constraint
 from rigging_utils import attribute
 from rigging_utils import shape
 
-import millrigger.modules.NY.misc.ryanf_scripts.util.control_shapes as cs
+import util.control_shapes as cs
 
-import millrigger.modules.NY.misc.ryanf_scripts.util.attribute as local_attr
+import util.attribute as local_attr
 
 
 # mirror an object over the x axis

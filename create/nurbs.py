@@ -3,8 +3,7 @@ import numpy as np
 import maya.cmds as cmds
 import maya.api.OpenMaya as om
 
-import millrigger.modules.NY.misc.ryanf_scripts.util.component as component
-import millrigger.modules.NY.misc.ryanf_scripts.create.dag as dg
+import create.dag as dg
 
 
 from rigging_utils.create import curves
